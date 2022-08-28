@@ -1,0 +1,122 @@
+*{
+    font-family:arial;
+}
+
+body{
+    margin:25px;
+    text-align: center;
+    background-color: #C8E8E7;
+}
+
+p{
+    font-size: 30px;
+}
+
+.menu{
+    background-color: white;
+    margin:10px;
+    border: solid 10px #DDDEFE;
+}
+
+nav.menu ul li.btnmenu{
+    font-size: 40px;
+    list-style-type:none;
+    display:inline-block;
+    padding: 10px;
+}
+
+nav.menu ul li.btnmenu a{
+    color: #4169E1;
+    text-decoration: none;
+    letter-spacing: 0.1rem;
+}
+
+nav.menu ul li.btnmenu a:hover{
+    color:black;
+    text-decoration: underline;
+}
+
+.header li{
+    padding: 35px;
+}
+
+.header li a{
+    text-decoration: none;
+}
+input{
+    border:solid 2px #4169E1;
+    margin-bottom:10px;
+    padding:20px;
+    outline:none;
+    border-radius:40px;
+}
+.erreur{
+    color:#CC0000;
+    margin-bottom:10px;
+}
+
+a:hover{
+    text-decoration:underline;
+}
+
+.post{
+     border: 10px groove  ; 
+     padding: 10px;
+     border-color: whitesmoke;
+     margin-right: 350px;
+     margin-left: 350px;
+     margin-bottom: 20px;
+     background-color : #DDDEFE;
+}
+
+.profil{
+     border: 10px groove  ; 
+     padding: 10px;
+     border-color: whitesmoke;
+ 
+     background-color : #DDDEFE;
+}
+
+.profillike{
+     border: 10px groove  ; 
+     padding: 10px;
+     border-color: whitesmoke;
+     margin-top: 20px;
+     margin-right: 200px;
+     margin-left: 200px;
+     margin-bottom: 20px;
+     background-color : #DDDEFE;
+}
+
+.profiluser{
+     border: 10px groove  ;
+     padding: 10px;
+     border-color: whitesmoke;
+     margin-right: 200px;
+     margin-left: 200px;
+     margin-bottom: 20px;
+     background-color : #DDDEFE;
+}
+
+.alluserpro{
+     border: 10px groove  ; 
+     padding: 15px;
+     border-color: whitesmoke;
+     margin-bottom: 10px;
+     margin-left: 150px;
+     margin-right: 150px;
+     background-color : #DDDEFE;
+}
+
+.alluserclient{
+     border: 10px groove  ; 
+     padding: 15px;
+     border-color: whitesmoke;
+     margin-bottom: 10px;
+     margin-left: 250px;
+     margin-right: 250px;
+     background-color : #DDDEFE;
+}
+
+
+
